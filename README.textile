@@ -1,0 +1,3 @@
+h1. Dossier
+
+Dossier is a prototype web app for making notes about people.
